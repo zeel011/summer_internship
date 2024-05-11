@@ -1,0 +1,2 @@
+Week 1: Getting Started 🚀
+The internship kicked off with a comprehensive introduction to Flutter. I focused on establishing a solid foundation in mobile app development, learning the basics of Dart programming language and familiarizing myself with Flutter's UI toolkit. Additionally, I familiarized myself with project requirements to align my goals with client expectations.
