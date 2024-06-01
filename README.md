@@ -6,3 +6,6 @@ During the second week, I delved deeper into Flutter's functionalities and featu
 
 Week 3: Leveraging APIs 🌐
 In the third week, I expanded my skills by integrating APIs into Flutter applications. This involved developing a dynamic home page and implementing API calls to enhance app interactivity. This phase was pivotal in understanding data management and leveraging external services to enrich app functionality.
+
+Week 4: Advanced API Integration 🛠️
+The focus of the fourth week was on advancing my proficiency in API integration. I tackled more complex tasks, implementing sophisticated functions using APIs to further enhance app capabilities. Additionally, I gained practical insights into deploying a live project environment on macOS, navigating the challenges associated with real-time application deployment.
