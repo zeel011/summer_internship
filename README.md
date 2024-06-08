@@ -9,3 +9,6 @@ In the third week, I expanded my skills by integrating APIs into Flutter applica
 
 Week 4: Advanced API Integration 🛠️
 The focus of the fourth week was on advancing my proficiency in API integration. I tackled more complex tasks, implementing sophisticated functions using APIs to further enhance app capabilities. Additionally, I gained practical insights into deploying a live project environment on macOS, navigating the challenges associated with real-time application deployment.
+
+Week 5: Managing Dependencies with CocoaPods 📦
+During the final week, I encountered version compatibility issues that required resolution to ensure seamless app performance. I also explored CocoaPods, a vital dependency manager for integrating third-party libraries into Flutter projects. Understanding and applying CocoaPods was instrumental in managing project dependencies effectively.
